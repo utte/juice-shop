@@ -90,4 +90,4 @@ pip install requests
 python3 insights/apply-tags.py --org-id your-org-id --snyk-token your-snyk-token --origin github
 ```
 testing my snyk pr
-test-2
+test-2 new
